@@ -1,5 +1,5 @@
 # your domain
-domain: go-proxypool.herokuapp.com   # or example.com:9443 for reserve proxy server
+domain: example.com   # or example.com:9443 for reserve proxy server
 port:                 # default 12580
 
 # source list file
